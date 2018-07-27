@@ -1,0 +1,4 @@
+[09-May-2017 12:23:45 UTC] PHP Fatal error:  Call to undefined function get_post_field() in /home/jensenmi/public_html/wp-content/themes/suwwweb-master/footer.php on line 1
+[09-May-2017 12:24:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/jensenmi/public_html/wp-content/themes/suwwweb-master/404.php on line 1
+[09-May-2017 12:25:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/jensenmi/public_html/wp-content/themes/suwwweb-master/index.php on line 1
+[09-May-2017 12:25:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/jensenmi/public_html/wp-content/themes/suwwweb-master/index.php on line 1
